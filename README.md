@@ -8,4 +8,5 @@ Before running the game make sure to install pygame it is necessary for the game
 You can use install_requiremnts.py to directly install it,make sure you have internet connection.
 
 Made By: AG
+
 Special Contribution: AG
